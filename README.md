@@ -62,3 +62,6 @@ The analysis identifies key factors influencing customer churn and provides a pr
 
 <img width="438" alt="image" src="https://github.com/user-attachments/assets/8c4dfa08-69b7-4a96-90a6-065f0f5f87a4" />
 
+<img width="436" alt="image" src="https://github.com/user-attachments/assets/ab7481e8-bd60-4d73-aff0-86276cf9c5de" />
+
+
