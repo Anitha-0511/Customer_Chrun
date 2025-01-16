@@ -57,3 +57,6 @@ Export the best model for deployment.
 **Results**
 
 The analysis identifies key factors influencing customer churn and provides a predictive model with high accuracy and interpretability.
+
+<img width="427" alt="image" src="https://github.com/user-attachments/assets/e8fee4f1-9cd0-44f0-98d5-c4596a6146a2" />
+
